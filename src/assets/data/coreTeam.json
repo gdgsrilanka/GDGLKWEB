@@ -70,6 +70,24 @@
         "github":"https://github.com/tdevinda",
         "profileImage":"tharaka.jpg",
         "website":""
+    },
+    {
+        "name":"Sumedhe Dissanayake",
+        "designation":"Organizer GDG Sri Lanka",
+        "twitter":"https://twitter.com/sumedhediss",
+        "linkedin":"https://www.linkedin.com/sumedhe",
+        "github":"https://www.github.com/sumedhe",
+        "profileImage":"sumedhe.jpg",
+        "website":""
+    },
+    {
+        "name":"Pasindu Marasinghe",
+        "designation":"Organizer GDG Cloud Sri Lanka",
+        "twitter":"https://twitter.com/MAPasindu",
+        "linkedin":"https://www.linkedin.com/in/pasindu-marasinghe/",
+        "github":"https://github.com/PasinduPriyashan",
+        "profileImage":"pasidu.jpg",
+        "website":""
     }
 
 ]
