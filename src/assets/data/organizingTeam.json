@@ -1,0 +1,74 @@
+[{
+        "name":"Dilanka Perera",
+        "designation":"",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"dilanka.jpg",
+        "website":""
+    },
+   {
+        "name":"Uthpala Weerakoon",
+        "designation":"",
+        "twitter":"https://twitter.com/uthplaWeerakoon",
+        "linkedin":"www.linkedin.com/in/uthpala-weerakoon-068313100",
+        "github":"https://github.com/uthpalaHiro",
+        "profileImage":"uthpala.jpg",
+        "website":""
+    },
+     {
+        "name":"Anusha Gamlath",
+        "designation":"",
+        "twitter":"",
+        "linkedin":"www.linkedin.com/in/anusha-gamlath-7066937a",
+        "github":"",
+        "profileImage":"anusha.jpg",
+        "website":""
+    },
+    {
+        "name":"Suresh Peiris",
+        "designation":"",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://linkedin.com/in/sureshmichael/",
+        "github":"https://github.com/tsuresh",
+        "profileImage":"suresh.jpg",
+        "website":""
+    },
+    {
+        "name":"Oshan Ivantha",
+        "designation":"",
+        "twitter":"https://twitter.com/_ivantha",
+        "linkedin":"https://www.linkedin.com/in/ivantha",
+        "github":"https://github.com/ivantha",
+        "profileImage":"oshan.jpg",
+        "website":""
+    },
+    {
+        "name":"Sumedhe Dissanayake",
+        "designation":"",
+        "twitter":"https://twitter.com/sumedhediss",
+        "linkedin":"https://www.linkedin.com/sumedhe",
+        "github":"https://www.github.com/sumedhe",
+        "profileImage":"sumedhe.jpg",
+        "website":""
+    },
+    {
+        "name":"Pasindu Marasinghe",
+        "designation":"",
+        "twitter":"https://twitter.com/MAPasindu",
+        "linkedin":"https://www.linkedin.com/in/pasindu-marasinghe/",
+        "github":"https://github.com/PasinduPriyashan",
+        "profileImage":"pasidu.jpg",
+        "website":""
+    }
+    ,
+    {
+        "name":"Sajani Senevirathne",
+        "designation":"",
+        "twitter":"https://twitter.com/SajaniSenevira1",
+        "linkedin":"https://www.linkedin.com/in/sajani93/",
+        "github":"",
+        "profileImage":"sajani.jpg",
+        "website":""
+    }
+]

@@ -1,0 +1,54 @@
+{
+    "AboutSession":[
+        {
+            "LinkName":"GDG Sri Lanka",
+            "Link":"/"
+        },
+        {
+            "LinkName":"Google Developers",
+            "Link":"https://developers.google.com"
+        },
+        {
+            "LinkName":"WomenTechamkers",
+            "Link":"https://www.womentechmakers.com/"
+        },
+        {
+            "LinkName":"Become a Member",
+            "Link":"https://www.meetup.com/GDG-LK/"
+        }
+    ],
+    "ChapterResourcesSession":[
+        {
+            "LinkName" : "Become a Sponsor",
+            "Link" : "mailto:gdgsrilanka@gmail.com"
+        },
+        {
+            "LinkName" : "Call for Speaker",
+            "Link" : "https://docs.google.com/forms/d/e/1FAIpQLScf47HckwRfOoF4b2FCkT4QhxpQUjk-4qq7I-10wDvIecrjrQ/viewform"
+        }
+    ],
+    "DevConsole":[
+        {
+            "LinkName" : "Google API Console",
+            "Link" : "https://console.developers.google.com/"
+        },
+        {
+            "LinkName" : "GCP Console",
+            "Link" : "https://console.cloud.google.com/"
+        },
+        {
+            "LinkName" : "Google Play Console",
+            "Link" : "https://console.cloud.google.com/"
+        },
+        {
+            "LinkName" : "Firebase Console",
+            "Link" : "https://console.firebase.google.com/"
+        }
+    ],
+    "FooterEndSession":[
+        {
+            "LinkName" : "Code of Conduct",
+            "Link" : "https://docs.google.com/document/d/1Wz_w6Z7usMnXKFMpOY4IPbA35twK7Uc4CAxScGDiwOk/edit"
+        }
+    ]
+}

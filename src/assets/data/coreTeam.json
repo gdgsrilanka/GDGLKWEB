@@ -1,0 +1,75 @@
+[
+    {
+        "name":"Pasan Ranathunga",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/PasanArtz",
+        "linkedin":"https://www.linkedin.com/in/pasanranathunga",
+        "github":"https://github.com/PMArtz92",
+        "profileImage":"pasan.jpg",
+        "website":""
+    },
+    {
+        "name":"Pamuditha Imalka",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/pamudithaimalka",
+        "linkedin":"https://www.linkedin.com/in/pamuditha91",
+        "github":"https://github.com/pamuditha",
+        "profileImage":"pamuditha.jpg",
+        "website":""
+    },
+    {
+        "name":"Dilini Madhubhashini",
+        "designation":"WTM Ambassador",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/diliniweerasinghe/",
+        "github":"",
+        "profileImage":"dilini.jpg",
+        "website":""
+    },
+    {
+        "name":"Michela Thalagala",
+        "designation":"WTM Ambassador",
+        "twitter":"https://twitter.com/Michela_T6",
+        "linkedin":"https://www.linkedin.com/in/michelathalagala",
+        "github":"",
+        "profileImage":"micky.jpg",
+        "website":""
+    },
+    {
+        "name":"Milidu Sanoj",
+        "designation":"Google Developer Expert (GCP)",
+        "twitter":"https://twitter.com/AgentMilindu",
+        "linkedin":"https://www.linkedin.com/in/agentmilindu",
+        "github":"https://github.com/agentmilindu",
+        "profileImage":"milidu.jpg",
+        "website":""
+    },
+    {
+        "name":"Raveen Harith",
+        "designation":"Organizer",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/rhperera/",
+        "github":"https://github.com/rhperera",
+        "profileImage":"raveen.jpg",
+        "website":""
+    },
+    {
+        "name":"Udaya Gunathilaka",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/udayamg",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"udaya.jpg",
+        "website":""
+    },
+    {
+        "name":"Tharaka Devinda",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/tdevinda",
+        "linkedin":"https://www.linkedin.com/in/tdevinda",
+        "github":"https://github.com/tdevinda",
+        "profileImage":"tharaka.jpg",
+        "website":""
+    }
+
+]
