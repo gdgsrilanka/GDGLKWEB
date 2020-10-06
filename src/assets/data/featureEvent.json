@@ -1,21 +1,21 @@
 [{
-    "FeatureEventName":"Kotlin Is Everywhere GDG Sri Lanka",
-    "EventImage":"kotlin.png",
+    "FeatureEventName":"DevFest 2020",
+    "EventImage":"",
     "EventDate":{
-        "Date":"16",
-        "Month":"11",
-        "Year":"2019"
+        "Date":"17",
+        "Month":"10",
+        "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "StartTime":"03:00 PM",
+        "EndTime":"07:30 PM"
     },
-    "EventVenue":"UCSC Colombo",
-    "EventVenueMapLink":"https://goo.gl/maps/HQqKiKBFGibJ7Mjq8",
-    "EventWebsite":"",
-    "EventDescription":"",
-    "MeetupLink":"https://www.meetup.com/GDG-LK/events/261529231/",
-    "RegistrationLink":"http://rsvp.lk",
+    "EventVenue":"Online",
+    "EventVenueMapLink":"",
+    "EventWebsite":"https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-devfest-sri-lanka-2020/#/",
+    "EventDescription":"DevFest is a community-led developer event hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about Google’s technologies.",
+    "MeetupLink":"https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-devfest-sri-lanka-2020/#/",
+    "RegistrationLink":"https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-devfest-sri-lanka-2020/#/",
     "FBEventPageURL":""
 }]
 
