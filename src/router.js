@@ -42,6 +42,11 @@ export default new Router({
       component: () => import('./views/Events.vue')
     },
     {
+      path: '/cloudKasthiram',
+      name: 'cloudKasthiram',
+      component: () => import('./views/Cloud.vue')
+    },
+    {
       path: '/contact',
       name: 'contact',
       component: () => import('./views/Contact.vue')
