@@ -75,7 +75,7 @@
                                 </v-card>
 
                                 <v-btn
-                                        color="primary"
+                                        color="success"
                                         @click="e1 = 2"
                                 >
                                     Done! I Registered
@@ -87,7 +87,7 @@
                                 <v-card
                                         class="mb-12"
                                 >
-                                    <h4>Great.! Now all you have to do, is complete five labs. </h4>
+                                    <h4>Great.! Now all you have to do, is complete six quests. </h4>
                                     <p>Here's a list of qwiklabs which you can do.</p>
                                     <h5 class="text-left">Fundamental Quests</h5>
                                     <p class="text-left">
@@ -142,7 +142,7 @@
                                         <li>Cap</li>
                                         <li>Google sticker card</li>
                                     </ul>
-                                    <button class="btn btn-primary" onClick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSfrxioUoctAISbOf5myqqADkXUHfDrS7qZSSN02P69eZUr_AQ/viewform'" type="button">CLAIM MY REWARD</button>
+                                    <button class="btn btn-primary" onClick="location.href='http://bit.ly/lab-completed'" type="button">CLAIM MY REWARD</button>
                                 </v-card>
 
                                 <v-btn
