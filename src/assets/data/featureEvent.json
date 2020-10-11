@@ -17,5 +17,24 @@
     "MeetupLink":"https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-devfest-sri-lanka-2020/#/",
     "RegistrationLink":"https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-devfest-sri-lanka-2020/#/",
     "FBEventPageURL":""
+},{
+    "FeatureEventName":"CloudKasthiram",
+    "EventImage":"kasthiram.png",
+    "EventDate":{
+        "Date":"17",
+        "Month":"10",
+        "Year":"2020"
+    },
+    "EventTime":{
+        "StartTime":"00:00 AM",
+        "EndTime":""
+    },
+    "EventVenue":"Online",
+    "EventVenueMapLink":"",
+    "EventWebsite":"https://gdgsrilanka.org/cloudkasthiram",
+    "EventDescription":"Cloud Kasthiram is a Google Cloud Platform based challenge which you can participate and test your cloud knowledge In Season 1 you get an opportunity to self study Google Cloud Platform starting with one month free access to Qwiklabs and receive a cool swag pack upon completion. Sounds interesting? Follow the steps below.",
+    "MeetupLink":"https://gdgsrilanka.org/cloudkasthiram",
+    "RegistrationLink":"https://gdgsrilanka.org/cloudkasthiram",
+    "FBEventPageURL":""
 }]
 
