@@ -117,7 +117,7 @@
                                 </v-card>
 
                                 <v-btn
-                                        color="primary"
+                                        color="success"
                                         @click="e1 = 3"
                                 >
                                     I did the labs too.!
@@ -144,7 +144,7 @@
                                     </ul>
                                     <button class="btn btn-primary" onClick="location.href='http://bit.ly/lab-completed'" type="button">CLAIM MY REWARD</button>
                                 </v-card>
-
+                                 </br>
                                 <v-btn
                                         @click="e1 = 2"
                                         text>
