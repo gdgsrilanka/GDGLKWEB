@@ -70,7 +70,7 @@
                                         height="200px"
                                 >
                                     <p>In order to participate in the #CloudKasthiram challenge, you must first register.</p>
-                                    <p><button class="btn btn-primary" onClick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSfvxFNQAuyvOaufiASeVD9VIHLvp_N-ac85aJodk_KbvUqxkA/viewform'" type="button">REGISTER NOW</button></p>
+                                    <p><button class="btn btn-primary" onClick="location.href='http://bit.ly/cloud-registration'" type="button">REGISTER NOW</button></p>
                                     <p>Want to know how to get one month Qwiklab access? Check out this video&nbsp;<a href="https://youtu.be/R3_A4gFHT2A">tutorial</a></p>
                                 </v-card>
 
