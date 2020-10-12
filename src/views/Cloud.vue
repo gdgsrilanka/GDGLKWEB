@@ -34,7 +34,7 @@
                                 href="https://www.qwiklabs.com/quests/38">Google Cloud Solutions II: Data and Machine Learning</a><br><a href="https://www.qwiklabs.com/quests/126">Explore Machine Learning Models with Explainable AI</a><br><a href="https://www.qwiklabs.com/quests/84">Advanced ML: ML Infrastructure</a><br>
                                 <a
                                     href="https://www.qwiklabs.com/quests/71">BigQuery for Machine Learning</a><br><a href="https://www.qwiklabs.com/quests/136">Integrate with Machine Learning APIs</a><br><br></p>
-                        <p class="text-left" style="font-size: 20px;"><strong>Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfvxFNQAuyvOaufiASeVD9VIHLvp_N-ac85aJodk_KbvUqxkA/viewform">here</a> to get started.</strong></p>
+                        <p class="text-left" style="font-size: 20px;"><strong>Register <a href="http://bit.ly/cloud-registration">here</a> to get started.</strong></p>
                         <p class="text-left">Want to know how to get one month Qwiklab access? Check out this video&nbsp;<a href="https://youtu.be/R3_A4gFHT2A">tutorial</a></p>
                         <p class="text-left" style="font-size: 20px;"><strong>Here's what you can score?</strong></p>
                         <p class="text-left"><strong>Complete 5 quests</strong>&nbsp; - T shirt , A cap and sticker card&nbsp;</p>
@@ -45,9 +45,9 @@
                 <div class="col-md-6">
                 <div><img style ="width:50% ; height:50%"src="https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag.png?alt=media&token=c2a24a2c-7321-4ada-b649-01bdf0fabe4e"></img></div>
                     <p style="font-size: 20px;"><strong><br>Why should you be a part of #CloudKasthiram?</strong></p>1. Score cool branded Swags<br>2. Get 1 month of free access to Qwiklabs and learn Google Cloud Platform<br><strong>Deadline : 20th Nov 2020</strong></p>
-                    <p><button class="btn btn-primary" onClick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSfvxFNQAuyvOaufiASeVD9VIHLvp_N-ac85aJodk_KbvUqxkA/viewform'" type="button"><span style="text-decoration: ">REGISTER NOW</span></button><br></p>
+                    <p><button class="btn btn-primary" onClick="location.href='http://bit.ly/cloud-registration'" type="button"><span style="text-decoration: ">REGISTER NOW</span></button><br></p>
                     <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScA-5CzEc0dxPX3FmkVf0eC9FTSmRz959Nq6uMPqItXX60S8A/viewform">&nbsp;</a>Spread the word by sharing this link: tinyurl.com/cloudkasthiram and use&nbsp;<strong>#CloudKasthiram</strong>&nbsp;on
-                        social media. Follow&nbsp;<a href="https://twitter.com/GoogleCloud_SG">@g</a>dglk&nbsp;for all updates!</p>
+                        social media. Follow&nbsp;<a href="https://twitter.com/gdglk">@g</a>dglk&nbsp;for all updates!</p>
                     <p>&nbsp;Let's # 🏆🏆🏆</p>
                 </div>
             </div>
