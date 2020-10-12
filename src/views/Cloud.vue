@@ -31,11 +31,19 @@
                         Then you can test your skills with the Qwiklabs platform.
                     You also get 1 month free access to Qwiklabs so that you can continue to do labs and learn even more...</p>
                     <p>Complete the quests within the given time period and win cool rewards.</p>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img style="width: 100%;"
+                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag.png?alt=media&token=c2a24a2c-7321-4ada-b649-01bdf0fabe4e" />
+                        </div>
+                        <div class="col-md-8">
+                            Spread the word by sharing this link: gdgsrilanka.org/cloudkasthiram and use&nbsp;<strong>#CloudKasthiram</strong>&nbsp;on
+                            social media. Follow&nbsp;<a href="https://twitter.com/GDGLK">@gdglk</a>&nbsp;for all updates!
+                            <p>&nbsp;Let's dance the #CloudKasthiram</p>
+                        </div>
+                    </div>
 
 
-                    Spread the word by sharing this link: gdgsrilanka.org/cloudkasthiram and use&nbsp;<strong>#CloudKasthiram</strong>&nbsp;on
-                    social media. Follow&nbsp;<a href="https://twitter.com/GDGLK">@gdglk</a>&nbsp;for all updates!
-                    <p>&nbsp;Let's dance the #CloudKasthiram</p>
                 </div>
             </div>
             <div class="row">
