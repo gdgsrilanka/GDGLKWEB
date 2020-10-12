@@ -14,7 +14,7 @@
     
     <div>
         <div class="container">
-           <div><img src="https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Form%20Header.png?alt=media&token=e9f21732-583d-41bc-beae-40d91db0d620" style="width: 99%;"></img></div>
+           <div><img src="https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Form%20Header.png?alt=media&token=e9f21732-583d-41bc-beae-40d91db0d620" style="width: 99%;"/></div>
             <div class="row">
                 <div class="col-md-6 d-table">
                     <p style="font-size: 20px;"><strong>Hello Developers in Sri Lanka</strong>,</p>
@@ -39,15 +39,15 @@
                         <p class="text-left" style="font-size: 20px;"><strong>Here's what you can score?</strong></p>
                         <p class="text-left"><strong>Complete 5 quests</strong>&nbsp; - T shirt , A cap and sticker card&nbsp;</p>
                         <p class="text-left"><strong>*Note:</strong>&nbsp;Only quests completed within the dates of 16th October - 20th November 2020 (dates incl.) will be counted in the swag redemption process</p>
-                        <p class="text-left" style="font-size: 20px;"><strong>Claim your swag by submitting&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSfrxioUoctAISbOf5myqqADkXUHfDrS7qZSSN02P69eZUr_AQ/viewform">this form</a></strong></p>
-                        <p class="text-left">Submit your Qwiklabs profile via this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfrxioUoctAISbOf5myqqADkXUHfDrS7qZSSN02P69eZUr_AQ/viewform">link</a>, and you will get swags based on the number of quests you have completed by 20th November 2020.</p>
+                        <p class="text-left" style="font-size: 20px;"><strong>Claim your swag by submitting&nbsp;<a href="https://bit.ly/lab-completed">this form</a></strong></p>
+                        <p class="text-left">Submit your Qwiklabs profile via this <a href="https://bit.ly/lab-completed">link</a>, and you will get swags based on the number of quests you have completed by 20th November 2020.</p>
                 </div>
                 <div class="col-md-6">
-                <div><img style ="width:50% ; height:50%"src="https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag.png?alt=media&token=c2a24a2c-7321-4ada-b649-01bdf0fabe4e"></img></div>
-                    <p style="font-size: 20px;"><strong><br>Why should you be a part of #CloudKasthiram?</strong></p>1. Score cool branded Swags<br>2. Get 1 month of free access to Qwiklabs and learn Google Cloud Platform<br><strong>Deadline : 20th Nov 2020</strong></p>
+                <div><img style ="width:50% ; height:50%" src="https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag.png?alt=media&token=c2a24a2c-7321-4ada-b649-01bdf0fabe4e"/></div>
+                    <p style="font-size: 20px;"><strong><br>Why should you be a part of #CloudKasthiram?</strong></p>1. Score cool branded Swags<br>2. Get 1 month of free access to Qwiklabs and learn Google Cloud Platform<br><strong>Deadline : 20th Nov 2020</strong>
                     <p><button class="btn btn-primary" onClick="location.href='http://bit.ly/cloud-registration'" type="button"><span style="text-decoration: ">REGISTER NOW</span></button><br></p>
-                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScA-5CzEc0dxPX3FmkVf0eC9FTSmRz959Nq6uMPqItXX60S8A/viewform">&nbsp;</a>Spread the word by sharing this link: tinyurl.com/cloudkasthiram and use&nbsp;<strong>#CloudKasthiram</strong>&nbsp;on
-                        social media. Follow&nbsp;<a href="https://twitter.com/gdglk">@g</a>dglk&nbsp;for all updates!</p>
+                    <p><a href="https://bit.ly/lab-completed">&nbsp;</a>Spread the word by sharing this link: tinyurl.com/cloudkasthiram and use&nbsp;<strong>#CloudKasthiram</strong>&nbsp;on
+                        social media. Follow&nbsp;<a href="https://twitter.com/gdglk">@gdglk</a>&nbsp;for all updates!</p>
                     <p>&nbsp;Let's # 🏆🏆🏆</p>
                 </div>
             </div>
