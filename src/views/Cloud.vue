@@ -80,7 +80,7 @@
                                     <p>
                                         <button
                                                 class="btn btn-primary"
-                                                onClick="location.href='https://bit.ly/cloud-registration'"
+                                                onClick="location.href='https://docs.google.com/forms/d/e/1FAIpQLScMTQAsKhZljgtZtgFcHeGjHp3-l2qk4Dqi_g_xO9Gwxk1yAA/viewform'"
                                                 type="button">
                                             REGISTER NOW
                                         </button>
@@ -151,7 +151,7 @@
                                             </ul>
                                             <button
                                                     class="btn btn-primary"
-                                                    onClick="location.href='https://bit.ly/lab-completed'"
+                                                    onClick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSclD0YDV74zzx2YAAJsrFF5o0NBmAGkkUh8pswM93j04xAHkQ/viewform'"
                                                     type="button">
                                                 CLAIM MY REWARD
                                             </button>
