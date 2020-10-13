@@ -14,7 +14,7 @@
     
     <div>
     <div>
-   <img style="width:100%" src="https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Form%20Header.png?alt=media&token=e9f21732-583d-41bc-beae-40d91db0d620"/>
+   <img style="width:100%" src="https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Form%20Header2.png?alt=media&token=14198ae7-6dfd-42e5-b98b-77901046d143"/>
     </div>                        
         <div class="container">
             <div class="row">
@@ -80,7 +80,7 @@
                                     <p>
                                         <button
                                                 class="btn btn-primary"
-                                                onClick="location.href='https://bit.ly/cloud-registration'"
+                                                onClick="location.href='https://docs.google.com/forms/d/e/1FAIpQLScMTQAsKhZljgtZtgFcHeGjHp3-l2qk4Dqi_g_xO9Gwxk1yAA/viewform'"
                                                 type="button">
                                             REGISTER NOW
                                         </button>
@@ -151,7 +151,7 @@
                                             </ul>
                                             <button
                                                     class="btn btn-primary"
-                                                    onClick="location.href='https://bit.ly/lab-completed'"
+                                                    onClick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSclD0YDV74zzx2YAAJsrFF5o0NBmAGkkUh8pswM93j04xAHkQ/viewform'"
                                                     type="button">
                                                 CLAIM MY REWARD
                                             </button>
