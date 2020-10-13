@@ -137,7 +137,7 @@
                                         class="mb-12">
                                     <h5>Congratulations! You've danced the dance. Now you can claim the reward.</h5>
                                     <p>Go to your Qwiklabs profile page, and submit that link to the form below</p>
-                                    <p>For the completion of the five labs <b>before 20th November 2020</b>, you are eligible for</p>
+                                    <p>For the completion of the five labs <b>before 8th November 2020</b>, you are eligible for</p>
                                     <div class="row">
                                         <div class="col-md-4">
                                             <img style="width: 80%;"
