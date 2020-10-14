@@ -34,7 +34,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <img style="width: 100%;"
-                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag.png?alt=media&token=c2a24a2c-7321-4ada-b649-01bdf0fabe4e" />
+                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag%20(1).png?alt=media&token=2736690a-28e1-4f35-9b89-4d415b0fde9c" />
                         </div>
                         <div class="col-md-8">
                             Spread the word by sharing this link: gdgsrilanka.org/cloudkasthiram and use&nbsp;<strong>#CloudKasthiram</strong>&nbsp;on
@@ -101,7 +101,7 @@
                                 <v-card
                                         class="mb-12"
                                 >
-                                    <h4>Great.! Now all you have to do, is complete five labs. </h4>
+                                    <h4>Great.! Now all you have to do, is complete six quests. </h4>
                                     <p>Here's a list of qwiklabs which you can do.</p>
                                     <h5 class="text-left">Quests</h5>
                                     <p class="text-left">
@@ -137,11 +137,11 @@
                                         class="mb-12">
                                     <h5>Congratulations! You've danced the dance. Now you can claim the reward.</h5>
                                     <p>Go to your Qwiklabs profile page, and submit that link to the form below</p>
-                                    <p>For the completion of the five labs <b>before 20th November 2020</b>, you are eligible for</p>
+                                    <p>For the completion of the five labs <b>before 8th November 2020</b>, you are eligible for</p>
                                     <div class="row">
                                         <div class="col-md-4">
                                             <img style="width: 80%;"
-                                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag.png?alt=media&token=c2a24a2c-7321-4ada-b649-01bdf0fabe4e" />
+                                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag%20(1).png?alt=media&token=2736690a-28e1-4f35-9b89-4d415b0fde9c" />
                                         </div>
                                         <div class="col-md-2">
                                             <ul>
