@@ -101,7 +101,7 @@
                                 <v-card
                                         class="mb-12"
                                 >
-                                    <h4>Great.! Now all you have to do, is complete five labs. </h4>
+                                    <h4>Great.! Now all you have to do, is complete six quests. </h4>
                                     <p>Here's a list of qwiklabs which you can do.</p>
                                     <h5 class="text-left">Quests</h5>
                                     <p class="text-left">
