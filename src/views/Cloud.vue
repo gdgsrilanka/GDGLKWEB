@@ -34,7 +34,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <img style="width: 100%;"
-                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag.png?alt=media&token=c2a24a2c-7321-4ada-b649-01bdf0fabe4e" />
+                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag%20(1).png?alt=media&token=2736690a-28e1-4f35-9b89-4d415b0fde9c" />
                         </div>
                         <div class="col-md-8">
                             Spread the word by sharing this link: gdgsrilanka.org/cloudkasthiram and use&nbsp;<strong>#CloudKasthiram</strong>&nbsp;on
@@ -141,7 +141,7 @@
                                     <div class="row">
                                         <div class="col-md-4">
                                             <img style="width: 80%;"
-                                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag.png?alt=media&token=c2a24a2c-7321-4ada-b649-01bdf0fabe4e" />
+                                                 src= "https://firebasestorage.googleapis.com/v0/b/gdglkweb.appspot.com/o/Swag%20(1).png?alt=media&token=2736690a-28e1-4f35-9b89-4d415b0fde9c" />
                                         </div>
                                         <div class="col-md-2">
                                             <ul>
