@@ -87,7 +87,7 @@
                                     height="200px"
                             >
                                 <p>In order to participate in the #CloudKasthiram challenge, you must first register.</p>
-                                <p>&nbsp;We will send you instructions via email.</p>
+                                <p>We will send you instructions via email.</p>
                                 <p>
                                     <button
                                             class="btn btn-primary"
@@ -115,7 +115,7 @@
                             >
                                 <h4>Great.! Now all you have to do, is complete six quests of your choice </h4>
                                 <p>Here's a list of Qwiklabs quests which you can do.</p>
-                                <p>&nbsp;We have sent you instructions on step to follow after registering.</p>
+                                <p>We have sent you instructions on step to follow after registering.</p>
                                 <h5 class="text-left">Quests</h5>
                                 <p class="text-left">
                                     <a href="https://google.qwiklabs.com/quests/120">Getting Started: Create and Manage Cloud Resources</a><br>
