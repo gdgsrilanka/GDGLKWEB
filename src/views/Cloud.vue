@@ -46,6 +46,8 @@
                 <p>Spread the word by sharing this link: gdgsrilanka.org/cloudkasthiram and use&nbsp;<strong>#CloudKasthiram</strong>&nbsp;on
                     social media. Follow&nbsp;<a href="https://twitter.com/GDGLK">@gdglk</a>&nbsp;for all updates!</p>
                 <p>&nbsp;Let's dance the #CloudKasthiram</p>
+                <p>&nbsp;Start Date - 17th Oct 2020 </p>
+                 <p>&nbsp;End Date for submission - 8th Nov 2020</p>
             </div>
         </div>
         <div class="row" style="margin-top: 20px">
@@ -85,6 +87,7 @@
                                     height="200px"
                             >
                                 <p>In order to participate in the #CloudKasthiram challenge, you must first register.</p>
+                                <p>&nbsp;We will send you instructions via email.</p>
                                 <p>
                                     <button
                                             class="btn btn-primary"
@@ -112,6 +115,7 @@
                             >
                                 <h4>Great.! Now all you have to do, is complete six quests of your choice </h4>
                                 <p>Here's a list of Qwiklabs quests which you can do.</p>
+                                <p>&nbsp;We have sent you instructions on step to follow after registering.</p>
                                 <h5 class="text-left">Quests</h5>
                                 <p class="text-left">
                                     <a href="https://google.qwiklabs.com/quests/120">Getting Started: Create and Manage Cloud Resources</a><br>
@@ -146,8 +150,8 @@
                             <v-card
                                     class="mb-12">
                                 <h5>Congratulations! You've danced the dance. Now you can claim the reward.</h5>
-                                <p>Go to your Qwiklabs profile page, and submit that link to the form below</p>
-                                <p>For the completion of the five labs <b>before 8th November 2020</b>, you are eligible for</p>
+                                <p>Go to your Qwiklabs profile page, make your profile public and submit Qwiklabs public profile link to the form below.</p>
+                                <p>For the completion of the six quests <b>before 8th November 2020</b>, you are eligible for</p>
                                 <div class="row">
                                     <div class="col-md-4">
                                         <img style="width: 80%;"
