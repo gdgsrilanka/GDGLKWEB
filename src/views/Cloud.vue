@@ -97,8 +97,8 @@
                                     </button>
                                 </p>
                                 <br/><br/>
-                                <p>Want to know how to get one month Qwiklab access? Check out this video
-                                    <a href="https://youtu.be/R3_A4gFHT2A">tutorial</a>
+                                <p>Want to know how to get one month Qwiklab access? Check out
+                                    <a href="https://docs.google.com/document/d/1oc_rrC236-3UM5jBZW04VnNXQ2Ck5Z_dB4LivtYGUoQ/edit?usp=sharing">this</a>
                                 </p>
                             </v-card>
 
