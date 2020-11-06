@@ -128,7 +128,7 @@
                                     <a href="https://google.qwiklabs.com/quests/141">Implement DevOps in Google Cloud</a><br>
                                     <a href="https://google.qwiklabs.com/quests/116?">Deploy to Kubernetes in Google Cloud</a><br>
                                     <a href="https://google.qwiklabs.com/quests/142?">Secure Workloads in Google Kubernetes Engine</a><br>
-                                    <a href="https://www.qwiklabs.com/quests/32">Intro to ML: Image Processing</a>
+                                    <a href="https://www.qwiklabs.com/quests/85">Intro to ML: Image Processing</a>
                                 </p>
                                 <br/>
                             </v-card>
